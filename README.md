@@ -1,0 +1,13 @@
+# daisy-user 10 QKQ1.191002.002 V11.0.17.0.QDLMIXM release-keys
+- manufacturer: 
+- platform: msm8953
+- codename: daisy_sprout
+- flavor: daisy-user
+- release: 10
+- id: QKQ1.191002.002
+- incremental: V11.0.17.0.QDLMIXM
+- tags: release-keys
+- fingerprint: xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.17.0.QDLMIXM:user/release-keys
+- brand: xiaomi
+- branch: daisy-user-10-QKQ1.191002.002-V11.0.17.0.QDLMIXM-release-keys
+- repo: xiaomi_daisy_sprout_dump
